@@ -1,0 +1,7 @@
+package com.Jonathon.web.models;
+
+public interface Pet {
+	public static String showAffection( String breed ) {
+		return "Your " + breed + " is looking at you with some affection, You think.";
+	}
+}

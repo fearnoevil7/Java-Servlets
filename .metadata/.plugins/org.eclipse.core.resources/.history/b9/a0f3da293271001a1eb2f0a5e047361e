@@ -1,0 +1,5 @@
+package com.Jonathon.web.models;
+
+public class Dog {
+
+}
